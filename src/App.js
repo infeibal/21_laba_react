@@ -53,8 +53,9 @@ function App() {
     <>
     
             
-		<div className="App">
-			<h1>يا تمتص ديك</h1>
+		<div className="App"> 
+        <img className="head-pic"src="https://sun6-23.userapi.com/s/v1/if2/RJJHTB_YL1FpFamBP1Ky43xBSBghuTTi_HQGiNEonIJxa_1qUofmj5tV0tb85Qhu5G7wMXuwf-NwKv2h-G5DZsh2.jpg?size=1920x1920&quality=96&crop=0,0,1920,1920&ava=1"/>
+
       <div className="head">
       <a href="./font/downoload" download="untilted.png" className="downoload">
       <img
