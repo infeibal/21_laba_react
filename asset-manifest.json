@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/21_laba_react/static/css/main.395b1816.css",
+    "main.js": "/21_laba_react/static/js/main.c89f43ff.js",
+    "index.html": "/21_laba_react/index.html",
+    "main.395b1816.css.map": "/21_laba_react/static/css/main.395b1816.css.map",
+    "main.c89f43ff.js.map": "/21_laba_react/static/js/main.c89f43ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.395b1816.css",
+    "static/js/main.c89f43ff.js"
+  ]
+}
